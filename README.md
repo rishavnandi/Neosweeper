@@ -2,7 +2,7 @@
 
 A Minimal Minesweeper Game Made With Flutter.
 
-##ScreenShots
+## ScreenShots
 ![Screenshot_20220322-194055](https://user-images.githubusercontent.com/101431112/159507614-ab3b6741-eb0e-462d-9dd0-12f7a344cc46.png)
 
 ![Screenshot_20220322-194051](https://user-images.githubusercontent.com/101431112/159507731-ac35f830-5039-4c88-b147-df20b30f1a16.png)
