@@ -2,8 +2,13 @@
 
 A Minimal Minesweeper Game Made With Flutter.
 
-![Pic1](https://photos.app.goo.gl/QWXmSPZxQS3dcyGP9)
-![Pic2](https://photos.app.goo.gl/YCHEGZ2FFLtN1S9C9)
+##ScreenShots
+![Screenshot_20220322-194055](https://user-images.githubusercontent.com/101431112/159507614-ab3b6741-eb0e-462d-9dd0-12f7a344cc46.png)
+
+![Screenshot_20220322-194051](https://user-images.githubusercontent.com/101431112/159507731-ac35f830-5039-4c88-b147-df20b30f1a16.png)
+
+
+
 ## Installation
 
 Apk Hosted On Google Drive Till I Publish On PlayStore, Ignore The Warnings Regarding Unknown Developer During Installation Since PlayStore Requires All Apk's To Be Signed.
