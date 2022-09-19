@@ -11,9 +11,9 @@ A Minimal Minesweeper Game Made With Flutter.
 
 ## Installation
 
-Apk Hosted On Google Drive Till I Publish On PlayStore, Ignore The Warnings Regarding Unknown Developer During Installation Since PlayStore Requires All Apk's To Be Signed.
+Download From GitHub Releases Section
 
-[Gdrive Link](https://drive.google.com/file/d/1b1VJ9O85gHh9QcRLlN0JExyILDSajANo/view)
+[GitHub Release](https://github.com/rishavnandi/Neosweeper/releases/download/v0.1.3/Neosweeper.apk)
 
 ## Minesweeper Rules
 
